@@ -1,2 +1,2 @@
 # oldest-companies-nb
-This notebook goes through a quick analysis of the data found on Wikipedia's [list of oldest companies](https://en.wikipedia.org/wiki/List_of_oldest_companies). Please [click here to view the notebook](#).
+This notebook goes through a quick analysis of the data found on Wikipedia's [list of oldest companies](https://en.wikipedia.org/wiki/List_of_oldest_companies). Please [click here to view the notebook](https://github.com/ralphqq/oldest-companies-nb/blob/master/oldest-companies.ipynb).
