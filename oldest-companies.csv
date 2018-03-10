@@ -1,0 +1,985 @@
+Year,Company,Current location,Field,Age
+0,578,Kongō Gumi,Japan,Construction,1440
+1,705,Nishiyama Onsen Keiunkan,Japan,Hotel,1313
+2,717,Koman,Japan,Hotel,1301
+3,718,Hōshi Ryokan,Japan,Hotel,1300
+4,771,Genda Shigyō,Japan,Ceremonial paper goods,1247
+5,803,Stiftskeller St. Peter,Austria,Restaurant,1215
+6,862,Staffelter Hof,Germany,Wine,1156
+7,864,Monnaie de Paris,France,Mint,1154
+8,885,Tanaka-Iga,Japan,Religious goods,1133
+9,886,Royal Mint,United Kingdom,Mint,1132
+10,900,Sean's Bar,Ireland,Pub,1118
+11,953,The Bingley Arms,United Kingdom,Pub,1065
+12,970,Nakamura Shaji,Japan,Construction,1048
+13,1000,Château de Goulaine,France,Wine,1018
+14,1000,Marinelli Bell Foundry,Italy,Foundry,1018
+15,1000,Ichimonjiya Wasuke,Japan,Confectionery,1018
+16,1024,Shumiya-Shinbutsuguten,Japan,Religious goods,994
+17,1040,Weihenstephan,Germany,Brewery,978
+18,1050,Weltenburger,Germany,Brewery,968
+19,1068,Otterton Mill,United Kingdom,Mill,950
+20,1074,Affligem brewery,Belgium,Brewery,944
+21,1074,Benediktinerstift Admont,Austria,Woodworking,944
+22,1075,Takahan Ryokan,Japan,Hotel,943
+23,1100,Schloss Johannisberg,Germany,Wine,918
+24,1120,Zum Roten Bären,Germany,Hotel,898
+25,1126,Taferne,Austria,Hotel,892
+26,1128,Grimbergen,Belgium,Brewery,890
+27,1128,Halydean Corporation,United Kingdom,Land & Livestock,890
+28,1131,Hofbrauhaus Arolsen,Germany,Brewery,887
+29,1133,Tongerlo,Belgium,Brewery,885
+30,1134,Geto Onsen,Japan,Hotel,884
+31,1135,Munke Mølle,Denmark,Mill,883
+32,1135,The Olde Bell,United Kingdom,Hotel,883
+33,1136,Aberdeen Harbour Board,United Kingdom,Harbor,882
+34,1141,Barone Ricasoli,Italy,Wine,877
+35,1141,Sudo Honke,Japan,Sake,877
+36,1160,Tsuen Tea,Japan,Tea,858
+37,1177,Gorobee Ame,Japan,Confectionery,841
+38,1184,Fujito,Japan,Confectionery,834
+39,1184,Kikuoka,Japan,Herbs,834
+40,1184,Sakan Ryokan,Japan,Hotel,834
+41,1189,Ito Tekko,Japan,Metalworking,829
+42,1190,Shirasagiyu Tawaraya,Japan,Hotel,828
+43,1190,Kotabe Foundry,Japan,Foundry,828
+44,1191,Tosen Goshobo,Japan,Hotel,827
+45,1191,Arima Onsen Okunobo,Japan,Hotel,827
+46,1192,Yoshinoya Irokuen,Japan,Hotel,826
+47,1198,The Brazen Head,Ireland,Pub,820
+48,1203,Angel and Royal,United Kingdom,Hotel,815
+49,1220,The Old Bell,United Kingdom,Hotel,798
+50,1230,Gasthof Sternen,Switzerland,Restaurant,788
+51,1239,Eyguebelle,France,Wine,779
+52,1242,The Bear Inn,United Kingdom,Pub,776
+53,1245,Gasthof zur Blume,Switzerland,Restaurant,773
+54,1246,Sanct Peter,Germany,Hotel,772
+55,1248,Bochnia,Poland,Salt,770
+56,1250,Wieliczka,Poland,Salt,768
+57,1266,Freiberger Brauhaus,Germany,Brewery,752
+58,1266,Bolten-Brauerei,Germany,Brewery,752
+59,1268,Aldersbach,Germany,Brewery,750
+60,1270,Frapin,France,Cognac,748
+61,1270,Hirter,Austria,Brewery,748
+62,1273,Piwnica Świdnicka,Poland,Restaurant,745
+63,1283,Fürstenberg Brewery,Germany,Brewery,735
+64,1283,Rhanerbräu,Germany,Brewery,735
+65,1288,StoraEnso,Finland,Paper,730
+66,1295,Barovier,Italy,Glass,723
+67,1300,Kuchlbauer,Germany,Brewery,718
+68,1300,Orso Grigio,Italy,Hotel,718
+69,1304,Pilgrim Haus,Germany,Hotel,714
+70,1308,Aktienbrauerei Kaufbeuren,Germany,Brewery,710
+71,1308,Frescobaldi,Italy,Wine,710
+72,1311,Notoya,Japan,Hotel,707
+73,1312,Higashiya,Japan,Hotel,706
+74,1313,Bratwursthäusle Nürnberg,Germany,Restaurant,705
+75,1313,Landgasthof Mayr,Austria,Inn,705
+76,1314,Garley,Germany,Brewery,704
+77,1318,Rats,Germany,Pharmacy,700
+78,1319,Sankogan,Japan,Pharmacy,699
+79,1321,Browar Namysłów,Poland,Brewery,697
+80,1323,Interlaken,Switzerland,Hotel,695
+81,1324,Kyteler's Inn,Ireland,Restaurant,694
+82,1325,The Old Bell,United Kingdom,Pub,693
+83,1326,Richard de Bas,France,Paper,692
+84,1327,Korenya Shingetsuan,Japan,Confectionery,691
+85,1328,Augustiner-Bräu,Germany,Brewery,690
+86,1328,Kremnica Mint,Slovakia,Mint,690
+87,1329,Kanbukuro,Japan,Confectionery,689
+88,1330,Schloss Vollrads,Germany,Wine,688
+89,1331,Hofpfisterei,Germany,Bakery,687
+90,1333,Kuroda Sennendo,Japan,Confectionery,685
+91,1334,Gmachl,Austria,Hotel,684
+92,1335,Karthäuserhof,Germany,Wine,683
+93,1337,Maruya Hatchomiso,Japan,Miso,681
+94,1340,Brand,Netherlands,Brewery,678
+95,1340,Landgasthof Löwen,Switzerland,Restaurant,678
+96,1345,La Couronne,France,Restaurant,673
+97,1346,Goldene Gans,Germany,Brewery,672
+98,1346,Takata,Japan,Textile,672
+99,1346,Skyllbergs bruk,Sweden,Iron processing,672
+100,1348,Pivovar Broumov,Czech Republic,Brewery,670
+101,1348,Haus zum Rüden Zürich,Switzerland,Restaurant,670
+102,1349,Shiose,Japan,Confectionery,669
+103,1349,Gasthof zum Goldenen Sternen,Switzerland,Restaurant,669
+104,1350,Schmidberger,Austria,Blacksmith,668
+105,1354,Zum Weinberg,Germany,Restaurant,664
+106,1356,Gasthof zum Bären,Switzerland,Restaurant,662
+107,1357,Hotel Storchen Zürich,Switzerland,Hotel,661
+108,1363,Franziskaner,Germany,Brewery,655
+109,1364,Löwen-Apotheke,Germany,Pharmacy,654
+110,1364,Wierzynek,Poland,Restaurant,654
+111,1366,Stella Artois,Belgium,Brewery,652
+112,1367,H. Rüetschi,Switzerland,Bell,651
+113,1368,Old Crown,United Kingdom,Restaurant,650
+114,1368,Uiro,Japan,Pharmacy,650
+115,1369,Torrini Firenze,Italy,Jewelry,649
+116,1371,Wynhus zum Bären,Switzerland,Restaurant,647
+117,1375,Al Cappello Rosso,Italy,Hotel,643
+118,1378,Einbecker,Germany,Brewery,640
+119,1380,Gastagwirt,Austria,Hotel,638
+120,1380,Roter Hahn,Germany,Hotel,638
+121,1383,Löwenbräu,Germany,Brewery,635
+122,1385,Antinori,Italy,Wine,633
+123,1386,Riegele,Germany,Brewery,632
+124,1387,Veneranda Fabbrica del Duomo di Milano,Italy,Church,631
+125,1389,Engel Apotheke,Switzerland,Pharmacy,629
+126,1390,Goldener Adler,Austria,Hotel,628
+127,1390,The Olde Bell,United Kingdom,Hotel,628
+128,1394,Allgäuer Brauhaus,Germany,Brewery,624
+129,1395,Namariichi,Japan,Chemicals,623
+130,1396,Hotel Adler,Switzerland,Hotel,622
+131,1397,Hotel de Draak,Netherlands,Hotel,621
+132,1397,Spaten,Germany,Brewery,621
+133,1398,Schnupp,Germany,Restaurant,620
+134,1399,Stein,Austria,Hotel,619
+135,1405,Ratskeller Bremen,Germany,Restaurant,613
+136,1405,Schlenkerla,Germany,Brewery,613
+137,1410,Schremser,Austria,Brewery,608
+138,1411,Zum Riesen,Germany,Restaurant,607
+139,1412,Zum Goldenen Sternen,Switzerland,Restaurant,606
+140,1413,Zum Stachel,Germany,Restaurant,605
+141,1416,Bianyifang,China,Restaurant,602
+142,1418,Krone,Switzerland,Hotel,600
+143,1418,Krumbad,Germany,Baths,600
+144,1418,Les Bonnets Rouges,France,Hotel,600
+145,1419,Barbarossa Hotel,Germany,Hotel,599
+146,1421,Kameya Mutsu,Japan,Confectionery,597
+147,1422,Raeapteek,Estonia,Pharmacy,596
+148,1426,Mühle Sting,Germany,Mill,592
+149,1428,Saku,Japan,Hotel,590
+150,1430,Kronen,Germany,Brewery,588
+151,1431,Bratwurst-Röslein,Germany,Restaurant,587
+152,1434,Lodenwalker,Austria,Clothing,584
+153,1435,Schloss Sommerhausen,Germany,Wine,583
+154,1435,Hecht Am See,Switzerland,Restaurant,583
+155,1436,Wernesgrüner,Germany,Brewery,582
+156,1437,Moserhof,Austria,Hotel,581
+157,1438,Andechs,Germany,Restaurant,580
+158,1438,Camuffo di Portogruaro,Italy,Boat building,580
+159,1439,Weideneder,Germany,Brewery,579
+160,1439,Zum Goldenen Anker,Germany,Hotel,579
+161,1441,Grafelijke Korenmolen,Netherlands,Mill,577
+162,1445,Hoegaarden,Belgium,Brewery,573
+163,1446,Rother Ochsen,Switzerland,Wine bar,572
+164,1447,Griechenbeisl,Austria,Restaurant,571
+165,1447,Hotel Krone,Austria,Hotel,571
+166,1447,Zötler,Germany,Brewery,571
+167,1455,Klosterbrauerei Andechs,Germany,Brewery,563
+168,1458,Zum Schwan,Germany,Hotel,560
+169,1461,Friedels Keller,Germany,Brewery,557
+170,1461,Hotel Lilie,Italy,Hotel,557
+171,1461,Surugaya,Japan,Confectionery,557
+172,1462,Eck,Germany,Brewery,556
+173,1462,Senkiya,Japan,Tea,556
+174,1463,Geska,Switzerland,Cheese,555
+175,1465,Weingut Geierslay,Germany,Wine,553
+176,1465,Owariya,Japan,Restaurant,553
+177,1466,Berg Brauerei,Germany,Brewery,552
+178,1466,Gallet & Co.,Switzerland,Clock,552
+179,1467,Inoue,Japan,Tea,551
+180,1470,Jean Roze,France,Textiles,548
+181,1470,Mazlo,France,Jeweler,548
+182,1472,Bad Osterfingen,Switzerland,Restaurant,546
+183,1472,Hirschgasse,Germany,Hotel,546
+184,1472,Banca Monte dei Paschi di Siena,Italy,Bank,546
+185,1473,Gebrüder Weiss,Austria,Transport,545
+186,1473,Steiger,Slovakia,Brewery,545
+187,1474,Kindli,Switzerland,Hotel,544
+188,1475,La Rochere,France,Glass,543
+189,1476,Pfahnl,Austria,Mill,542
+190,1477,Hirzinger,Germany,Hotel,541
+191,1477,Ratskeller Erfurt,Germany,Restaurant,541
+192,1477,Mizuta Gyokuundo,Japan,Confectionery,541
+193,1478,Warka,Poland,Brewery,540
+194,1482,Isabellenhütte Heusler,Germany,Industry,536
+195,1483,Zur Sonne,Switzerland,Restaurant,535
+196,1485,Krone,Germany,Restaurant,533
+197,1487,Hiraizumi,Japan,Sake,531
+198,1488,Rathbornes Candles,Ireland,Candles,530
+199,1488,Schwabe,Switzerland,Publisher,530
+200,1491,Sommerhuber,Austria,Ceramics,527
+201,1492,Hofmühl,Germany,Brewery,526
+202,1492,Haeberlein,Germany,Bakery,526
+203,1493,Bürgerbräu Bad Reichenhall,Germany,Brewery,525
+204,1495,Baronnie de Coussergues,France,Wine,523
+205,1497,Raventós i Blanc,Spain,Wine,521
+206,1498,Goldenes Posthorn,Germany,Restaurant,520
+207,1498,Shore Porters,United Kingdom,Transport,520
+208,1499,U Fleků,Czech Republic,Brewery,519
+209,1500,Ammerndorfer,Germany,Mill,518
+210,1500,Arthur Beale,United Kingdom,Chandler,518
+211,1500,Ubaldo Grazia,Italy,Pottery,518
+212,1501,Fukkodo,Japan,Brushes,517
+213,1502,Tsutaya,Japan,Confectionery,516
+214,1502,Chigira Jinsentei,Japan,Hotel,516
+215,1503,Golden Fleece Inn,United Kingdom,Restaurant,515
+216,1503,Hacklwirt,Austria,Restaurant,515
+217,1503,Kawabata Doki,Japan,Confectionery,515
+218,1504,Ishiga Honten,Japan,Religious goods,514
+219,1505,Kenbishi,Japan,Sake,513
+220,1506,Herold,Czech Republic,Brewery,512
+221,1509,Roter Hirsch,Germany,Restaurant,509
+222,1514,Hampton Ferry,United Kingdom,Ferry,504
+223,1514,Trinity House,United Kingdom,Lighthouse,504
+224,1515,R J Balson & Son,United Kingdom,Butcher,503
+225,1515,Café Vlissinghe,Belgium,Restaurant,503
+226,1516,Zeilinger,Austria,Metalwork,502
+227,1516,White Hart Inn,United Kingdom,Pub,502
+228,1517,Měšťanský pivovar v Poličce,Czech Republic,Brewery,501
+229,1517,Salzbergwerk Berchtesgaden,Germany,Salt,501
+230,1519,Orell Füssli Holding AG,Switzerland,Holding,499
+231,1520,Toraya,Japan,Confectionery,498
+232,1521,Spiegelau,Germany,Glass,497
+233,1524,Schöllnitzer,Germany,Distillery,494
+234,1524,Hostal de Pinós,Spain,Restaurant,494
+235,1525,Auerbachs Keller Leipzig,Germany,Restaurant,493
+236,1526,Bären Twann,Switzerland,Hotel,492
+237,1526,Beretta,Italy,Firearms,492
+238,1526,Bratwurst Herzle,Germany,Restaurant,492
+239,1530,William Prym,Germany,Metalwork,488
+240,1530,Liubiju,China,Pickle,488
+241,1532,Yamaji,Japan,Sake,486
+242,1532,Honke Kojima,Japan,Confectionery,486
+243,1533,Klosterbräu Bamberg,Germany,Restaurant,485
+244,1533,Zvon,Czech Republic,Hotel,485
+245,1534,Cambridge University Press,United Kingdom,Publishing,484
+246,1534,Ur-Krostitzer,Germany,Brewery,484
+247,1534,Matsuokaya,Japan,Sauce,484
+248,1535,Gottsmannsgrüner,Germany,Brewery,483
+249,1536,Izumiya Ryokan,Japan,Hotel,482
+250,1538,Ye Olde Cheshire Cheese,United Kingdom,Pub,480
+251,1540,Shusen Kurano,Japan,Sake,478
+252,1541,John Brooke & Sons,United Kingdom,Real estate,477
+253,1542,Urs und Viktor,Switzerland,Restaurant,476
+254,1542,Wolferstetter,Germany,Brewery,476
+255,1543,Köstritzer,Germany,Brewery,475
+256,1543,Hof-Apotheke (Coburg),Germany,Pharmacy,475
+257,1545,Touwfabriek G. van der Lee,Netherlands,Rope,473
+258,1545,Roman Brewery,Belgium,Brewery,473
+259,1546,Fubokaku,Japan,Hotel,472
+260,1547,Kunitomo Kyutaro,Japan,Gunpowder,471
+261,1548,Can Bonastre,Spain,Wine,470
+262,1548,Yoshinogawa,Japan,Sake,470
+263,1550,Konishi,Japan,Sake,468
+264,1550,Riess,Austria,Metalwork,468
+265,1550,Sasaiya,Japan,Confectionery,468
+266,1550,Izeki,Japan,Clothing,468
+267,1550,Minoya Kichibee,Japan,Food,468
+268,1551,De Zalm,Netherlands,Hotel,467
+269,1551,Hof Apotheke (Stuttgart),Germany,Pharmacy,467
+270,1551,Codorníu,Spain,Wine,467
+271,1551,Daikokuya,Japan,Food,467
+272,1552,Fonjallaz,Switzerland,Wine,466
+273,1553,Piesslinger,Austria,Aluminium,465
+274,1554,De Vergulde Hand,Netherlands,Soap,464
+275,1554,Tomita,Japan,Sake,464
+276,1554,Meien,Japan,Salt,464
+277,1555,Chiso,Japan,Clothing,463
+278,1555,Chikiriya Jihei,Japan,Clothing,463
+279,1558,Kaikodo,Japan,Lacquerware,460
+280,1558,Kanbayashi Shunsho,Japan,Tea,460
+281,1558,Ueda,Japan,Sake,460
+282,1559,Kastner,Austria,Confectionery,459
+283,1560,Aritsugu,Japan,Knives,458
+284,1560,Nabeya,Japan,Metalwork,458
+285,1560,Okamoto,Japan,Iron,458
+286,1560,Hasemoku,Japan,Real estate,458
+287,1560,Ichijoh,Japan,Hotel,458
+288,1561,Achkarren Krone,Germany,Hotel,457
+289,1561,SS Annunziata,Italy,Perfume,457
+290,1561,Yamagatakan,Japan,Hotel,457
+291,1562,Otaya Hanuemon,Japan,Confectionery,456
+292,1563,Shima Tamura,Japan,Hotel,455
+293,1563,Kojiya,Japan,Food,455
+294,1564,Svijany,Czech Republic,Brewery,454
+295,1565,Taiko Mochi,Japan,Confectionery,453
+296,1566,Nishikawa,Japan,Beds,452
+297,1567,Acrobräu,Germany,Brewery,451
+298,1567,Liuquanju,China,Restaurant,451
+299,1568,Gasthof Herold,Germany,Brewery,450
+300,1568,Kichijiya,Japan,Oil,450
+301,1568,Poschinger,Germany,Glass,450
+302,1569,Edegger-Tax,Austria,Bakery,449
+303,1570,Einhorn Apotheke,Germany,Pharmacy,448
+304,1570,Klášter,Czech Republic,Brewery,448
+305,1570,Schwarzer Adler,Austria,Hotel,448
+306,1570,Whitechapel Bell Foundry,United Kingdom,Foundry,448
+307,1570,Suishodo,Japan,Pharmacy,448
+308,1570,Isekusuri Honpo,Japan,Pharmacy,448
+309,1572,Royal Tichelaar Makkum,Netherlands,Ceramics,446
+310,1573,Luzhou Laojiao,China,Distillery,445
+311,1573,Hosoji Inbanten,Japan,Stamps,445
+312,1573,Nakano,Japan,Fish,445
+313,1573,Muroji,Japan,Sauce,445
+314,1573,Otsuya,Japan,Retailing,445
+315,1573,Nihon Kodo,Japan,Incense,445
+316,1573,Shintsu,Japan,Building material,445
+317,1573,Sonodaya,Japan,Confectionery,445
+318,1573,Kanbayashi,Japan,Tea,445
+319,1573,Mitsuboshien Kanbayashi Sannyu,Japan,Tea,445
+320,1573,Ishikawa,Japan,Stone,445
+321,1574,Dopff au Moulin,France,Wine,444
+322,1574,Glossner,Germany,Brewery,444
+323,1575,Nikenjayamochi Kadoya,Japan,Brewery,443
+324,1575,Lucas Bols,Netherlands,Distillery,443
+325,1575,Meboso Hachirobee,Japan,Fishing flies,443
+326,1575,Yanagiya Hozen,Japan,Confectionery,443
+327,1576,Heihachi Jaya,Japan,Restaurant,442
+328,1576,Kishigon,Japan,Hotel,442
+329,1576,Gyokueido,Japan,Confectionery,442
+330,1577,Kobaien,Japan,Ink,441
+331,1577,Mineyo,Japan,Fish,441
+332,1578,Holzhausen,Austria,Printing,440
+333,1578,Klett,Germany,Firearms,440
+334,1578,Lamp no Yado,Japan,Hotel,440
+335,1578,Tomihiro,Japan,Clothing,440
+336,1579,Hof-Apotheke (Sigmaringen),Germany,Pharmacy,439
+337,1579,Kiguraya,Japan,Clothing,439
+338,1580,Higashimaru,Japan,Sauce,438
+339,1581,Krušovice,Czech Republic,Brewery,437
+340,1582,Hatano Paint,Japan,Paint,436
+341,1582,Indenya,Japan,Leather,436
+342,1582,Koju,Japan,Incense,436
+343,1582,La Tour d'Argent,France,Restaurant,436
+344,1582,Onomichi,Japan,Vinegar,436
+345,1582,Piana Clerico,Italy,Cloth,436
+346,1582,Pivovar Krakonoš,Czech Republic,Brewery,436
+347,1582,Tamaruya,Japan,Udon noodles,436
+348,1582,Thorbräu,Germany,Brewery,436
+349,1582,Minowa,Japan,Lacquerware,436
+350,1582,MaYinglong,China,Pharmacy,436
+351,1583,Gnomenkeller,Germany,Restaurant,435
+352,1584,Çemberlitaş Hamamı,Turkey,Turkish bath,434
+353,1584,Dragseths,Germany,Restaurant,434
+354,1584,Erizen,Japan,Clothing,434
+355,1584,Gosset,France,Champagne,434
+356,1584,Hahnemühle,Germany,Paper,434
+357,1584,Godayu Kikuya,Japan,Confectionery,434
+358,1584,Yamato Intec,Japan,Metalworking,434
+359,1585,Kiennast,Austria,Supermarket,433
+360,1585,Kikuya,Japan,Confectionery,433
+361,1585,Mercros,Japan,Retailer,433
+362,1585,Schlitzer,Germany,Distillery,433
+363,1585,Tenshoen,Japan,Tea,433
+364,1586,Matsui,Japan,Construction,432
+365,1586,Metzger,Germany,Bakery,432
+366,1586,Oyama Shaji,Japan,Construction,432
+367,1587,Chogoromochi,Japan,Confectionery,431
+368,1587,Corbiac,France,Wine,431
+369,1587,Josuian,Japan,Confectionery,431
+370,1588,Keymer Tiles,United Kingdom,Tiles,430
+371,1588,Okeka,Japan,Furnaces,430
+372,1589,Hofbräuhaus,Germany,Restaurant,429
+373,1589,Klosterbrauerei Neuzelle,Germany,Brewery,429
+374,1589,Piesers,Germany,Restaurant,429
+375,1590,Au-Hallertau,Germany,Brewery,428
+376,1590,Berenberg,Germany,Bank,428
+377,1590,Cēsu Alus,Latvia,Brewery,428
+378,1590,Sumitomo Group,Japan,Mining,428
+379,1590,Ibasen,Japan,Fans,428
+380,1590,Lana,France,Paper,428
+381,1590,Weichselbaum,Germany,Metalwork,428
+382,1591,R. Durtnell & Sons,United Kingdom,Construction,427
+383,1591,Alte f.e. Hofapotheke,Austria,Pharmacy,427
+384,1591,Kogure,Japan,Hotel,427
+385,1591,Yamashina,Japan,Utensil,427
+386,1592,Osugiya Sobee,Japan,Confectionery,426
+387,1592,Meimon Sakai,Japan,Sake,426
+388,1592,Kikyoya,Japan,Confectionery,426
+389,1592,Nezameya,Japan,Restaurant,426
+390,1593,Koya,Japan,Sake,425
+391,1593,Yamamotoya,Japan,Seed,425
+392,1594,Specht,Germany,Restaurant,424
+393,1594,Kungyokudo,Japan,Incense,424
+394,1594,Fujinoya,Japan,Fertilizer,424
+395,1595,Alte Taverne,Germany,Restaurant,423
+396,1596,Chojiya,Japan,Restaurant,422
+397,1596,Ed Meier,Germany,Shoes,422
+398,1596,Osiander (de),Germany,Bookstore,422
+399,1596,Toshimaya,Japan,Sake,422
+400,1596,Takimo,Japan,Food,422
+401,1596,Oteramochi Kawaido,Japan,Confectionery,422
+402,1596,Tazen,Japan,Metal,422
+403,1596,Gyokurinbo,Japan,Hotel,422
+404,1596,Nagata Bunshodo,Japan,Publisher,422
+405,1596,Heirakuji,Japan,Publisher,422
+406,1596,Hayashikan,Japan,Clothing,422
+407,1597,Gold Ochsen,Germany,Brewery,421
+408,1597,Kojima,Japan,Sake,421
+409,1597,Kuwanaya,Japan,Confectionery,421
+410,1597,Uzu Kyumeigan,Japan,Pharmacy,421
+411,1597,Ryujin,Japan,Sake,421
+412,1598,Chinjukan,Japan,Pottery,420
+413,1598,Wakanoura Imoto,Japan,Pharmacy,420
+414,1598,Watahan,Japan,Construction,420
+415,1598,Nakazato Moemon,Japan,Pottery,420
+416,1599,Minatoya Yurei-kosodate-ame,Japan,Confectionery,419
+417,1599,Grassmayr,Austria,Bells,419
+418,1599,Umai,Japan,Chemicals,419
+419,1599,Boun,Japan,Hotel,419
+420,1599,Kyorin,Japan,Clothing,419
+421,1599,Shichiyama Hospital,Japan,Hospital,419
+422,1599,Stämpfli,Switzerland,Publisher,419
+423,1600,"Red Lion public house, Hillingdon",United Kingdom,Hotel,418
+424,1600,Guangzhou Chenliji,China,Pharmaceutical,418
+425,1600,Zhimeizhai,China,Sauce,418
+426,1600,Kani,Japan,Soy sauce,418
+427,1600,Kawamata,Japan,Pharmacy,418
+428,1600,Kimura Shinzo,Japan,Clothing,418
+429,1600,Kokuya,Japan,Hotel,418
+430,1601,Shioya,Japan,Property,417
+431,1601,Okuto,Japan,Sake,417
+432,1602,Goldener Karpfen,Germany,Hotel,416
+433,1602,Brauerei Gundel,Germany,Brewery,416
+434,1602,Goto,Japan,Sake,416
+435,1602,Hozokan,Japan,Bookstore,416
+436,1602,Migita,Japan,Sake,416
+437,1602,Yomeishu,Japan,"Pharmaceutical, Sake",416
+438,1602,Nakashima,Japan,Slate,416
+439,1602,Fukui Yaemon,Japan,Real estate,416
+440,1603,Chateau Auvernier,Switzerland,Wine,415
+441,1603,Hirose,Japan,Metal,415
+442,1603,Kuragi,Japan,Agricultural,415
+443,1603,Nemoto,Japan,Sake,415
+444,1603,Sato,Japan,Miso,415
+445,1603,Shobido Nagamatsu,Japan,Religious goods,415
+446,1603,Tsukasabotan,Japan,Sake,415
+447,1603,Unsuido,Japan,Confectionery,415
+448,1604,Hirsch Hotel Gehrung,Germany,Hotel,414
+449,1604,Ishicho,Japan,Stonemasonry,414
+450,1604,Kikuchi Hojudo,Japan,Foundry,414
+451,1604,Kameya,Japan,Pharmacy,414
+452,1604,Kadoshichi,Japan,Retailing,414
+453,1604,Yuzakikan,Japan,Hotel,414
+454,1605,Mitaniya,Japan,Clothing,413
+455,1605,Kagamiya,Japan,Retailing,413
+456,1605,Kano,Japan,Stationery,413
+457,1606,Kamakurabori Yodo,Japan,Woodwork,412
+458,1607,Leve,Germany,Restaurant,411
+459,1607,Schleppe,Austria,Brewery,411
+460,1607,Schlosswirt Zu Anif,Austria,Hotel,411
+461,1607,Alfred Blaul Hofgut Goennheim,Germany,Wine,411
+462,1607,Skultuna,Sweden,Brass and silver accessories,411
+463,1607,Sasajima,Japan,Fuel,411
+464,1607,Fushimiya,Japan,Cosmetics,411
+465,1608,Kikyoya Orii,Japan,Confectionery,410
+466,1608,Kimura,Japan,Retail,410
+467,1608,Takeda Kahei,Japan,Clothing,410
+468,1608,Komeya,Japan,Hotel,410
+469,1609,Asano Taiko,Japan,Drums,409
+470,1609,Klampfleuthner,Germany,Pottery,409
+471,1609,Kloster Ettal,Germany,Brewery,409
+472,1609,Ritterbräu,Austria,Brewery,409
+473,1609,Wolff,Austria,Wine,409
+474,1609,Apteka Rektorska,Poland,Pharmacy,409
+475,1609,Ryochikuya,Japan,Hotel,409
+476,1610,Wookey Hole,United Kingdom,Paper,408
+477,1610,Takenaka,Japan,Construction,408
+478,1610,Honjin,Japan,Hotel,408
+479,1611,Matsuzakaya,Japan,Retailing,407
+480,1611,Miyoshi,Japan,Paper lantern,407
+481,1611,Hisaya Daikokudo,Japan,Pharmacy,407
+482,1611,Meimondo Chihara,Japan,Confectionery,407
+483,1612,Santa Maria Novella,Italy,Pharmacy,406
+484,1613,Mellerio,France,Jewelry,405
+485,1613,J. D. Sauerländer's,Germany,Publisher,405
+486,1613,Shirley Plantation,United States,Farm,405
+487,1613,Kikutani,Japan,Confectionery,405
+488,1614,Sumihei,Japan,Building material,404
+489,1614,Yamamoto,Japan,Construction,404
+490,1614,Kansuiro,Japan,Hotel,404
+491,1615,Akamatsu,Japan,Pharmacy,403
+492,1615,Aoki Trans,Japan,Shipping,403
+493,1615,Cartiera Mantovana,Italy,Papermaking,403
+494,1615,Eirakuya,Japan,Retailing,403
+495,1615,Furuhata,Japan,Hotel,403
+496,1615,Grolsch,Netherlands,Brewery,403
+497,1615,Hankeido,Japan,Brushes,403
+498,1615,Kimura,Japan,Sake,403
+499,1615,Komeya,Japan,Pharmacy,403
+500,1615,Maruei,Japan,Retailing,403
+501,1615,Yanagiya,Japan,Cosmetics,403
+502,1615,Anyōji,Japan,Fuel,403
+503,1615,Takagi,Japan,Sake,403
+504,1615,Kawabe,Japan,Iron works,403
+505,1615,Murata,Japan,Eyeglasses,403
+506,1616,Higeta,Japan,Soy sauce,402
+507,1616,Vopak,Netherlands,Fuel storage,402
+508,1616,Morino,Japan,Confectionery,402
+509,1616,Wildbräu Grafing,Germany,Brewery,402
+510,1616,C. Wittmann,Germany,Brewery,402
+511,1616,Aburaya Kyusuke,Japan,Wholesale,402
+512,1617,Kameya Kiyonaga,Japan,Confectionery,401
+513,1617,Mannendo,Japan,Confectionery,401
+514,1618,Zum Schwarzen Kameel,Austria,Restaurant,400
+515,1618,Horiguchi,Japan,Sake,400
+516,1619,Tengu,Japan,Jewelry,399
+517,1620,Croix D'or et Poste,Switzerland,Hotel,398
+518,1620,Spindler,Germany,Wine,398
+519,1620,Toraya,Japan,Confectionery,398
+520,1620,Naruko Kanko Hotel,Japan,Hotel,398
+521,1621,Zur Letzten Instanz,Germany,Restaurant,397
+522,1622,Gessner,Germany,Brewery,396
+523,1622,Hirschen,Switzerland,Hotel,396
+524,1622,Hiya,Japan,Pharmaceutical,396
+525,1623,Hirase,Japan,Sake,395
+526,1623,Kamotsuru,Japan,Sake,395
+527,1623,Avedis Zildjian,United States,Cymbals,395
+528,1624,Akashiya,Japan,Brushes,394
+529,1624,Fukusaya,Japan,Castella,394
+530,1624,Okubo Nishinochaya,Japan,Soba noodles,394
+531,1624,Karacho,Japan,Paper,394
+532,1624,Komaruya,Japan,Uchiwa,394
+533,1624,Marui,Japan,Cloth,394
+534,1624,Takahashi Magozaemon,Japan,Sake,394
+535,1624,Hoshino Resorts Kai Kaga,Japan,Hotel,394
+536,1624,Yoshizaki,Japan,Sake,394
+537,1624,Kato,Japan,Stone mill,394
+538,1624,Yoshinoso Yukawaya,Japan,Hotel,394
+539,1624,Takaoka Fukunobu,Japan,Confectionery,394
+540,1624,Murata Bunpuku,Japan,Confectionery,394
+541,1624,Sato,Japan,Funerary items,394
+542,1624,Awabiya,Japan,Seafood,394
+543,1624,Zum Heidenberg,Germany,Hotel,394
+544,1624,Shobun,Japan,Vinegar,394
+545,1624,Ota,Japan,Stonework,394
+546,1624,Mimasuya,Japan,Confectionery,394
+547,1624,Kawabun,Japan,Restaurant,394
+548,1624,Amihiko,Japan,Restaurant,394
+549,1624,Tokiwaya,Japan,Hotel,394
+550,1625,Iwanumaya,Japan,Hotel,393
+551,1625,Aogen,Japan,Miso,393
+552,1625,Fukumitsuya,Japan,Sake,393
+553,1625,Fukuzumi,Japan,Hotel,393
+554,1625,Morihachi,Japan,Confectionery,393
+555,1625,Paul Schunk,Germany,Wine,393
+556,1625,Sakura Masamune,Japan,Sake,393
+557,1625,Toa,Japan,Sake,393
+558,1625,Yagenbori,Japan,Shichimi,393
+559,1625,Masuda,Japan,Sake,393
+560,1626,Rikyuen,Japan,Tea,392
+561,1625,Morihisa Iron Studio,Japan,Ironware,393
+562,1625,Yamauchi,Japan,Religious goods,393
+563,1626,Zur Forelle,Germany,Restaurant,392
+564,1626,Minoya,Japan,Sake,392
+565,1626,Panesys,Japan,Building material,392
+566,1626,Kuroda Eiichi,Japan,Sake,392
+567,1626,Kanyoutei,Japan,Confectionery,392
+568,1626,Fujimura,Japan,Confectionery,392
+569,1627,Kotohira Kadan,Japan,Hotel,391
+570,1628,Tsukubasan Edoya,Japan,Hotel,390
+571,1628,Lammsbräu,Germany,Brewery,390
+572,1628,Schwan,Germany,Hotel,390
+573,1628,Todaya,Japan,Confectionery,390
+574,1628,Winkler,Germany,Restaurant,390
+575,1628,Yachiya,Japan,Sake,390
+576,1628,Horikiri,Japan,Construction,390
+577,1629,Augustea SpA,Italy,Shipping,389
+578,1629,Horiguchi,Japan,Construction,389
+579,1629,Tyskie,Poland,Brewery,389
+580,1630,Chidoriya,Japan,Confectionery,388
+581,1630,Graf Arco,Germany,Brewery,388
+582,1630,Ichinoyu,Japan,Hotel,388
+583,1630,Kikkoman,Japan,Foods,388
+584,1630,Wirt am Berg,Austria,Restaurant,388
+585,1630,Oi Yamamoto,Japan,Seafood,388
+586,1631,Tsunehisa,Japan,Kitchen knife,387
+587,1632,Schwechat,Austria,Brewery,386
+588,1632,Tuttle's Red Barn,United States,Farm,386
+589,1632,Yusaya,Japan,Hotel,386
+590,1632,Zum Ochsen,Germany,Restaurant,386
+591,1632,Takasagoya Ikeuchi,Japan,Pillow,386
+592,1632,Yoshida Hideji,Japan,Tatami,386
+593,1632,Ishino,Japan,Stonemasonry,386
+594,1632,Tokumistuya,Japan,Pharmacy,386
+595,1633,Izumi Shokai,Japan,Stonework,385
+596,1633,Wakabayashi,Japan,Bag,385
+597,1634,Albrecht,Germany,Metalwork,384
+598,1634,Paulaner,Germany,Brewery,384
+599,1634,Ryoguchiya Korekiyo,Japan,Confectionery,384
+600,1634,Nagamochiya,Japan,Confectionery,384
+601,1634,Gotenmori,Japan,Hotel,384
+602,1635,Dreikönigshof,Germany,Wine,383
+603,1635,Maruyama,Japan,Woodwork,383
+604,1635,Morikawa,Japan,Somen noodles,383
+605,1635,Nickelhütte Aue,Germany,Nickel,383
+606,1635,Regenfuß,Germany,Nursery,383
+607,1635,Casa Batalha,Portugal,Jewellery,383
+608,1635,Okutan Kiyomizu,Japan,Restaurant,383
+609,1635,Harikichi,Japan,Fishing tackle,383
+610,1636,Maxlrainer,Germany,Brewery,382
+611,1636,Shiraishi,Japan,Wholesale,382
+612,1636,Fuyahei,Japan,Restaurant,382
+613,1636,Hatsugame,Japan,Sake,382
+614,1637,Gekkeikan,Japan,Sake,381
+615,1638,Einbecker Blaudruck,Germany,Linen,380
+616,1638,Fürst,Germany,Wine,380
+617,1638,Kizuya,Japan,Office supplies,380
+618,1638,Kopke Port,Portugal,Wine,380
+619,1638,Touwfabriek Langman,Netherlands,Rope,380
+620,1638,Tysmenytsia Fur Company,Ukraine,Textiles,380
+621,1638,Shiratamaya Shinzaburo,Japan,Confectionery,380
+622,1638,GABA,Switzerland,Health care products,380
+623,1639,Field View Farm,United States,Farm,379
+624,1639,Hugel & Fils,France,Wine,379
+625,1639,Tsuruya,Japan,Confectionery,379
+626,1639,Kyushu Toho,Japan,Medical supplies,379
+627,1639,Shimogoten,Japan,Hotel,379
+628,1640,Fromholzer,Austria,Linen,378
+629,1640,Tanaka,Japan,Sake,378
+630,1640,Kyorinkai,Japan,Hospital,378
+631,1641,Bickelmaier,Germany,Wine,377
+632,1641,Sonne,Switzerland,Hotel,377
+633,1641,Spreitzer,Germany,Wine,377
+634,1642,Bilsener,Germany,Insurance,376
+635,1642,Barker's Farm,United States,Farm,376
+636,1642,Hof Apotheke Rüdel,Germany,Pharmacy,376
+637,1642,Amako,Japan,Machinery,376
+638,1642,Kagetsu,Japan,Restaurant,376
+639,1642,Fukagawaya Mutsudaijo,Japan,Confectionery,376
+640,1643,Rudi Rüttger,Germany,Wine,375
+641,1643,Tanaka,Japan,Sake,375
+642,1643,Sasaki,Japan,Seal,375
+643,1643,Trudon,France,"Wax, Candles",375
+644,1644,Bucher,Germany,Brewery,374
+645,1644,Stockholm,Germany,Hotel,374
+646,1644,Tsukioka,Japan,Hotel,374
+647,1645,Daishin,Japan,Hotel,373
+648,1645,Hatchomiso,Japan,Miso,373
+649,1645,Post-och Inrikes Tidningar,Sweden,Newspaper,373
+650,1645,Ritter,Germany,Brewery,373
+651,1645,Shohokuen,Japan,Tea,373
+652,1645,Shoutoku,Japan,Sake,373
+653,1645,Yamasa,Japan,Soy sauce,373
+654,1645,Kaku,Japan,Farming material,373
+655,1646,Bofors,Sweden,Defense,372
+656,1647,Chivite,Spain,Wine,371
+657,1648,Kojima,Japan,Paper,370
+658,1648,Fujiya,Japan,Wedding hall,370
+659,1648,Oji Ogiya,Japan,Restaurant,370
+660,1648,Shirokiya,Japan,Lacquerware,370
+661,1649,Bischofshof,Germany,Brewery,369
+662,1649,Falter,Germany,Brewery,369
+663,1649,Fiskars,Finland,Blades,369
+664,1649,Marukan,Japan,Vinegar,369
+665,1649,Trautwein,Germany,Wine,369
+666,1649,Tanaka,Japan,Safe,369
+667,1650,Aannemers- en Timmerbedrijf Roozemond,Netherlands,Construction,368
+668,1650,Yukawa,Japan,Sake,368
+669,1650,Schlossbrauerei Autenrieder,Germany,Brewery,368
+670,1650,Fachwerk 33,Germany,Restaurant,368
+671,1650,Kaganoi,Japan,Sake,368
+672,1650,Post Brauerei Weiler,Germany,Brewery,368
+673,1650,Yukawa,Japan,Sake,368
+674,1650,Koshuya,Japan,Dolls,368
+675,1650,Ebisuya,Japan,Hotel,368
+676,1650,Jiuzhitang,China,Pharmacy,368
+677,1650,Otowaya Shinise,Japan,Confectionery,368
+678,1651,Emmerich,Germany,Wine,367
+679,1651,Lauterbacher,Germany,Brewery,367
+680,1651,Wangmazi,China,Scissors,367
+681,1652,Brückenkeller,Germany,Restaurant,366
+682,1652,KnaapenGroep,Netherlands,Construction,366
+683,1652,Bussho,Japan,Religious goods,366
+684,1652,Mabuchi,Japan,Clothing,366
+685,1652,Ichimaru,Japan,Clothing,366
+686,1652,Matsuya Tokiwa,Japan,Confectionery,366
+687,1653,Ozu,Japan,Paper,365
+688,1653,Royal Delft,Netherlands,Porcelain,365
+689,1653,Sushiman,Japan,Restaurant,365
+690,1653,Totsuka,Japan,Sake,365
+691,1654,Faust,Germany,Brewery,364
+692,1654,Orkla,Norway,Conglomerate,364
+693,1654,Akoya,Japan,Clothing,364
+694,1655,Emery Farm,United States,Farm,363
+695,1655,Firmin,United Kingdom,Beltmaker,363
+696,1655,Henninger Brewery,Germany,Brewery,363
+697,1655,Tanaka,Japan,Sake,363
+698,1655,Tobaya,Japan,Strings,363
+699,1655,Zanini,Italy,Wrought iron,363
+700,1655,Shichimiya,Japan,Spice,363
+701,1656,Au Bijou,Switzerland,Jewelry,362
+702,1656,Haarlems Dagblad,Netherlands,Newspaper,362
+703,1656,Kasen,Japan,Kiln,362
+704,1656,Kogatanaya,Japan,Dolls,362
+705,1657,Baieido,Japan,Incense,361
+706,1657,Everlth,Japan,Pharmaceutical,361
+707,1657,Hirschbräu,Germany,Brewery,361
+708,1657,Kitagawa Honke,Japan,Sake,361
+709,1657,Nakayama Doll,Japan,Dolls,361
+710,1657,Ulefos Jernværk,Norway,Foundry,361
+711,1657,Toraya,Japan,Confectionery,361
+712,1657,Uemura Yoshitsugu,Japan,Confectionery,361
+713,1657,Kamigoten,Japan,Hotel,361
+714,1657,Cham Paper Group,Switzerland,Paper,361
+715,1658,Arikawa,Japan,Pharmaceutical,360
+716,1658,Gaststätte Röhrl,Germany,Restaurant,360
+717,1658,Hirai,Japan,Sake,360
+718,1658,Nishino Kinryo,Japan,Chemicals,360
+719,1658,Ohki (ja),Japan,Pharmaceutical,360
+720,1658,Shuzui,Japan,Scales,360
+721,1658,Kamadaya,Japan,Hotel,360
+722,1659,Asadaya,Japan,Hotel,359
+723,1659,Asadaya Ihei,Japan,Restaurant,359
+724,1659,Harise,Japan,Restaurant,359
+725,1659,Hinoki,Japan,Printing,359
+726,1659,Kagiya,Japan,Fireworks,359
+727,1659,Kiku Masamune,Japan,Sake,359
+728,1659,Mochibun,Japan,Confectionery,359
+729,1659,Okamaya,Japan,Metal,359
+730,1659,Somaya,Japan,Stationery,359
+731,1659,Tsuchiya,Japan,Paper lanterns,359
+732,1660,Chimatsushima,Japan,Hotel,358
+733,1660,Petit & Fritsen,Netherlands,Foundry,358
+734,1661,Asaka,Japan,Tools,357
+735,1661,Ejima,Japan,Tea,357
+736,1661,Inoueki,Japan,Chemicals,357
+737,1661,Kameya Sakyo,Japan,Chinese medicine,357
+738,1661,Schilz,Germany,Ceramics,357
+739,1661,Selbach,Germany,Wine,357
+740,1661,Uchigasaki,Japan,Sake,357
+741,1661,Zohiko,Japan,Lacquerware,357
+742,1661,Tago Honke,Japan,Sake,357
+743,1661,Otokoyama,Japan,Sake,357
+744,1662,Matsuzakaya,Japan,Hotel,356
+745,1662,Miyasaka,Japan,Miso,356
+746,1662,Moririn,Japan,Cloth,356
+747,1662,Rössle,Germany,Hotel,356
+748,1662,Hotel Wesseling,Netherlands,Hotel,356
+749,1662,Shirokiya,Japan,Retailing,356
+750,1662,Tatsuuma Honke,Japan,Sake,356
+751,1662,Usui,Japan,Retailing,356
+752,1662,Van Eeghen,Netherlands,Foods,356
+753,1662,Yanagiya,Japan,Tea,356
+754,1663,Hirsch,Germany,Pharmacy,355
+755,1663,Hofmann,Germany,Brewery,355
+756,1663,Ihan,Japan,Tatami,355
+757,1663,Krawany,Austria,Retailing,355
+758,1663,Kyukyodo,Japan,"Pharmacy, paper goods, incense",355
+759,1663,Matsumoto,Japan,Chemicals,355
+760,1663,Moriroku,Japan,Chemicals,355
+761,1663,Shimakawa,Japan,Confectionery,355
+762,1663,Zhang Xiaoquan,China,Scissors,355
+763,1663,Vitale Barberis Canonico,Italy,Wool fabrics,355
+764,1663,Hauert,Switzerland,Fertilizer,355
+765,1664,Daisan,Japan,Real estate,354
+766,1664,Schwarze & Schlichte,Germany,Distillery,354
+767,1664,Gazzetta di Mantova,Italy,Newspaper,354
+768,1665,Gubernija,Lithuania,Brewery,353
+769,1665,London Gazette,United Kingdom,Newspaper,353
+770,1665,Morita,Japan,Brewery,353
+771,1665,Okazaki,Japan,Sake,353
+772,1665,Saint-Gobain,France,Conglomerate,353
+773,1666,Robert Noble,United Kingdom,Textiles,352
+774,1666,Sato,Japan,Supermarket,352
+775,1666,Spink,United Kingdom,Currency,352
+776,1666,Wieninger,Germany,Brewery,352
+777,1666,Yaegaki,Japan,Sake,352
+778,1666,Yuasa Trading,Japan,Trade,352
+779,1666,Bankaku,Japan,Confectionery,352
+780,1667,Seaside Inn,United States,Hotel,351
+781,1668,Merck KGaA,Germany,Pharmaceutical,350
+782,1668,Engelbräu,Germany,Brewery,350
+783,1668,Mitsui,Japan,Sake,350
+784,1669,Iseya,Japan,Hotel,349
+785,1669,Okaya,Japan,Trade,349
+786,1669,Tong Ren Tang,China,Pharmacy,349
+787,1669,Zum Adler Breisach,Germany,Restaurant,349
+788,1669,Zum Kreuz,Switzerland,Hotel,349
+789,1669,Akahoshi,Japan,Metalware,349
+790,1670,El Rinconcillo,Spain,Restaurant,348
+791,1670,Hudson's Bay Company,Canada,Retailing,348
+792,1670,J. Herbin,France,Sealing wax and ink,348
+793,1672,Hoares Bank,United Kingdom,Bank,346
+794,1672,Kikuya,Japan,Stationery,346
+795,1672,Tucher Bräu,Germany,Brewery,346
+796,1672,Rongbaozhai,China,Stationery,346
+797,1673,Daiichi,Japan,Cloth,345
+798,1673,Genpei,Japan,Sake,345
+799,1673,Goldenes Kreuz,Austria,Hotel,345
+800,1673,Inata,Japan,Sake,345
+801,1673,Jinjudo,Japan,Incense,345
+802,1673,Kawashima,Japan,Paper,345
+803,1673,Kawasho,Japan,Paper,345
+804,1673,Mitsukoshi,Japan,Retailing,345
+805,1673,Oga,Japan,Sake,345
+806,1673,Tamagawa,Japan,Sake,345
+807,1673,Tamanohikari,Japan,Sake,345
+808,1673,White Horse Tavern,United States,Restaurant,345
+809,1673,Zillinger,Austria,Wine,345
+810,1673,Yamada,Japan,Restaurant,345
+811,1673,Matsuya Riemon,Japan,Confectionery,345
+812,1673,Ebiya,Japan,Antique,345
+813,1673,Kojimaya,Japan,Confectionery,345
+814,1673,Terada Honke,Japan,Sake,345
+815,1674,Miki,Japan,Chemicals,344
+816,1674,Sabatti,Italy,Firearms,344
+817,1674,Stockholms Auktionsverk,Sweden,Auctions,344
+818,1674,Myogaya,Japan,Hotel,344
+819,1675,Adams Gasthof,Germany,Restaurant,343
+820,1675,Egger,Austria,Brewery,343
+821,1675,Hakubotan,Japan,Sake,343
+822,1675,Hartmann,Germany,Hotel,343
+823,1675,Masuda Tokubee,Japan,Sake,343
+824,1675,Matsudaya,Japan,Hotel,343
+825,1675,Mornflake,United Kingdom,Foods,343
+826,1675,Romanushof,Germany,Wine,343
+827,1675,Shuetsu,Japan,Foods,343
+828,1675,Sugimoto Kichijuro,Japan,Tools,343
+829,1675,Takahashi,Japan,Stonemasonry,343
+830,1675,Takanoya,Japan,Karasumi,343
+831,1675,Tamazawa,Japan,Confectionery,343
+832,1675,Tiefenbrunner,Italy,Wine,343
+833,1675,Fujiwara,Japan,Oil,343
+834,1676,Hiroroku,Japan,Foods,342
+835,1676,James Lock & Co.,United Kingdom,Hats,342
+836,1676,Konishi Mankintan,Japan,Pharmacy,342
+837,1677,Yamahiko,Japan,Construction,341
+838,1677,Yamamoto Honke,Japan,Sake,341
+839,1677,Zur Linde,Germany,Restaurant,341
+840,1678,Olmo Antico,Italy,Wine,340
+841,1678,Mitsubishi Tanabe Pharma,Japan,Pharmacy,340
+842,1679,Eichbaum,Germany,Brewery,339
+843,1679,Eigashima,Japan,Sake,339
+844,1679,Schwarz,Austria,Mouth harps,339
+845,1679,Viellard Migeon & Cie,France,Foundry,339
+846,1680,Comédie-Française,France,Theatre,338
+847,1680,Saunderskill,United States,Farm,338
+848,1680,Simonis,Belgium,Cloth,338
+849,1680,Tenryo,Japan,Sake,338
+850,1680,Yoshibun,Japan,Fish,338
+851,1680,Morita Jihee,Japan,Pharmacy,338
+852,1681,Chikumanishiki,Japan,Sake,337
+853,1681,Eggenberg,Austria,Brewery,337
+854,1681,Göteborgs Auktionsverk,Sweden,Auctions,337
+855,1681,JeanRichard,Switzerland,Watches,337
+856,1681,Les Trois Rois,Switzerland,Hotel,337
+857,1681,Naraya,Japan,Construction,337
+858,1681,Hotel zum Ritter St. Georg,Germany,Hotel,337
+859,1681,Shooken,Japan,Castella,337
+860,1682,Sawaya,Japan,Confectionery,336
+861,1682,Ishiichi,Japan,Stonework,336
+862,1683,Brill,Netherlands,Publisher,335
+863,1683,Gaggenau,Germany,Appliances,335
+864,1683,Yasuda Nenju,Japan,Prayer beads,335
+865,1683,Hof-Apotheke (Kempten),Germany,Pharmacy,335
+866,1684,Mieman Nishimura,Japan,Soy sauce,334
+867,1684,Niiya,Japan,Herbs,334
+868,1684,Yoshiyo,Japan,Catering equipment,334
+869,1685,Carl Loebner,Germany,Toyshop,333
+870,1685,Heimes,Germany,Restaurant,333
+871,1685,Tomikyu,Japan,Paper,333
+872,1685,SFCO,France,Trading,333
+873,1685,"Toye, Kenning & Spencer",United Kingdom,Jewelry and clothing,333
+874,1686,Café Procope,France,Restaurant,332
+875,1686,Nakaura,Japan,Foods,332
+876,1687,Mihoharaya,Japan,Housewares,331
+877,1687,Tarlant,France,Wine,331
+878,1687,Kimuraya,Japan,Hotel,331
+879,1688,Kadojin,Japan,Hotel,330
+880,1688,Aburaya,Japan,Hotel,330
+881,1688,Chikuma Miso,Japan,Miso,330
+882,1688,Fukuda,Japan,Sake,330
+883,1688,Fukuroju,Japan,Sake,330
+884,1688,Harry,Germany,Bakery,330
+885,1688,Kaishin,Japan,Foods,330
+886,1688,Kanmo,Japan,Hanpen,330
+887,1688,Katsuyama,Japan,Foods,330
+888,1688,Kesselring,Germany,Brewery,330
+889,1688,Kobu,Japan,Sake,330
+890,1688,Lambertz,Germany,Chocolate,330
+891,1688,Lloyd's of London,United Kingdom,Insurance,330
+892,1688,Madonoume,Japan,Sake,330
+893,1688,Shibanuma,Japan,Soy sauce,330
+894,1688,Tatebayashi,Japan,Architecture,330
+895,1688,Tsuda Magobee,Japan,Foods,330
+896,1688,Yasuimoku,Japan,Construction,330
+897,1688,Shimizu,Japan,Pharmacy,330
+898,1688,Kikkona,Japan,Soy sauce,330
+899,1688,Moriyama,Japan,Sake,330
+900,1688,Kajimasa,Japan,Metalware,330
+901,1688,Sakuragi Fusajiro,Japan,Retail,330
+902,1688,Nishikawaya,Japan,Confectionery,330
+903,1688,Muromachi,Japan,Sake,330
+904,1688,Yaogen,Japan,Confectionery,330
+905,1688,Yutouya,Japan,Hotel,330
+906,1689,Aiba,Japan,Fans,329
+907,1689,Amekaze,Japan,Soy sauce,329
+908,1689,Ede & Ravenscroft,United Kingdom,Clothing,329
+909,1689,Fukushima,Japan,Pawnbroker,329
+910,1689,Hanbee Fu,Japan,Foods,329
+911,1689,Hinomaru,Japan,Sake,329
+912,1689,Husqvarna AB,Sweden,Conglomerate,329
+913,1689,Kojiya,Japan,Miso,329
+914,1689,Kuroeya,Japan,Lacquerware,329
+915,1689,Marukichi,Japan,Oil,329
+916,1689,Nabedana,Japan,Sake,329
+917,1689,Nagano,Japan,Sake,329
+918,1689,Shogoin Yatsuhashi,Japan,Confectionery,329
+919,1689,Nishio,Japan,Confectionery,329
+920,1689,Suzuki Shuzōten,Japan,Sake,329
+921,1689,Ishikawa Kinjiro,Japan,Dried goods,329
+922,1689,Nishino,Japan,Taiko drum,329
+923,1689,Osawa,Japan,Sake,329
+924,1690,Delamare & Co.,France,Optics,328
+925,1690,Genroku Tatami,Japan,Tatami,328
+926,1690,J B Joyce,United Kingdom,Clocks,328
+927,1690,Hichifuku,Japan,Pharmaceutical,328
+928,1690,Makino,Japan,Sake,328
+929,1690,Maruishi,Japan,Sake,328
+930,1690,Tokyo Matsuya,Japan,Paper,328
+931,1690,Monjuso,Japan,Hotel,328
+932,1690,Okabun,Japan,Cloth,328
+933,1690,Tanbaya,Japan,Fashion,328
+934,1690,Towle Silversmiths,United States,Silversmith,328
+935,1690,Tsujikura,Japan,Umbrellas,328
+936,1690,Yamamotoyama,Japan,Tea,328
+937,1690,Amehata,Japan,Inkstone,328
+938,1691,Awaya,Japan,Cloth,327
+939,1691,Imai,Japan,Sake,327
+940,1691,Itokichi,Japan,Cloth,327
+941,1691,Nolet Jeneverstokerij-Distilleerderij,Netherlands,Distillery,327
+942,1691,Sasanoyuki,Japan,Tofu,327
+943,1691,Sekizenkan,Japan,Hotel,327
+944,1691,Valentin Zusslin,France,Wine,327
+945,1691,Omaru,Japan,Hotel,327
+946,1691,Ameya Kawai,Japan,Confectionery,327
+947,1692,Coutts,United Kingdom,Bank,326
+948,1692,Ekelund,Sweden,Cloth,326
+949,1692,Taylor's,Portugal,Wine,326
+950,1692,Izutsuya,Japan,Noodles,326
+951,1692,Yuuki,Japan,Sake,326
+952,1693,Suzutame,Japan,Dolls,325
+953,1693,Ishino,Japan,Slate,325
+954,1694,Shimadaya,Japan,Farm,324
+955,1694,Schuler St. Jakobskellerei,Switzerland,Wine,324
+956,1694,Bank of England,United Kingdom,Bank,324
+957,1695,Bank of Scotland,United Kingdom,Bank,323
+958,1695,De Kuyper,Netherlands,Distillery,323
+959,1695,Furutakiya,Japan,Hotel,323
+960,1695,Kumagaiya,Japan,Confectionery,323
+961,1695,Niki,Japan,Sake,323
+962,1695,Oiwake Yokan,Japan,Yokan,323
+963,1695,Suzuki Bussan,Japan,Foods,323
+964,1695,Taruhei,Japan,Sake,323
+965,1695,Yumoto,Japan,Hotel,323
+966,1695,Uenoya,Japan,Hotel,323
+967,1696,Kagiya Masaaki,Japan,Confectionery,322
+968,1696,Kitajima,Japan,Confectionery,322
+969,1696,C. de Koning Tilly,Netherlands,Pharmacy,322
+970,1697,Folkes,United Kingdom,Foundry,321
+971,1697,Hakukoma,Japan,Sake,321
+972,1697,Old Moore's Almanack,United Kingdom,Almanac,321
+973,1697,Ono,Japan,Sake,321
+974,1697,Schwanen,Germany,Restaurant,321
+975,1698,Berry Brothers and Rudd,United Kingdom,Wine,320
+976,1698,Am Knipp,Germany,Restaurant,320
+977,1698,Kössel,Germany,Brewery,320
+978,1698,Shepherd Neame,United Kingdom,Brewery,320
+979,1698,Silvera,Netherlands,Fabric,320
+980,1699,Akaoya,Japan,Pickles,319
+981,1699,Ninben,Japan,Foods,319
+982,1699,Osoumenya,Japan,Confectionery,319
+983,1699,Wakatakeya,Japan,Sake,319
